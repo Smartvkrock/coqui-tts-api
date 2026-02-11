@@ -1,4 +1,5 @@
-Flask==2.3.0
-TTS==0.22.0
-torch==2.0.0
-numpy==1.24.0
+Flask==3.0.0
+TTS
+torch
+numpy
+pydub
